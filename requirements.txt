@@ -2,3 +2,4 @@
 napalm<3.0
 json2table
 GitPython
+napalm-fortios
